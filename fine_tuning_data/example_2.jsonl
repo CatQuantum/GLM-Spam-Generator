@@ -1,0 +1,1 @@
+{"messages": [{"role": "user", "content": "请解释AlphaGo的基本原理。"}, {"role": "assistant", "content": "AlphaGo结合深度神经网络与树搜索算法，通过棋局数据进行训练，逐步提升棋力，能够判断围棋局势并选择最佳着法。"}]}
